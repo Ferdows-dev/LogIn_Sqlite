@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LogIn Sqlite</string>
+
+
+    <string name="login">প্রবেশ করুন </string>
+    <string name="signup">নিবন্ধন করুন </string>
+    <string name="changelanguage">ভাষা পরিবর্তন করুন</string>
+</resources>

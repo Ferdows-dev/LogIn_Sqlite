@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LogIn Sqlite</string>
+
+    <string name="login">LogIn </string>
+    <string name="signup">Sign Up </string>
+    <string name="changelanguage">English</string>
+</resources>
